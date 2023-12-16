@@ -3,4 +3,4 @@
 Môn Phát triển ứng dụng <br>
 Lớp DHHTTT16B <br>
 GVHD: Lê Thùy Trang <br>
-<img src="QuanLyBepAn/img/logo.jpg" style="width: 40%;">
+<img src="QuanLyBepAn/img/logo.jpg" style="width: 45%;">
