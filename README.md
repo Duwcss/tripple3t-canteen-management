@@ -1,4 +1,6 @@
-# Building a kitchen management system for businesses
+# Building a kitchen management system for businesses - Tripple3T
 As the team leader of the Tripple3T team, I led the development of a corporate canteen management system. This system streamlines meal planning and ordering processes with features including daily menu management, employee meal reservation, and kitchen order processing.This project highlights my leadership skills and our team's ability to create user-centric enterprise solutions.
 -----------------------------------
 Quick preview in the <a href="IMAGES">IMAGES</a> folder
+-----------------------------------
+<img src="IMAGES/homepage.png" alt="">
